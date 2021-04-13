@@ -1,0 +1,13 @@
+https://www.projectcalico.org/wp-content/uploads/2015/03/why-bgp-networks.svg
+https://asciinema.org/a/36211.png
+http://dev-project-calico.pantheonsite.io/wp-content/uploads/2017/06/image1-1024x1006.png
+http://dev-project-calico.pantheonsite.io/wp-content/uploads/2017/06/image2.png
+https://www.projectcalico.org/wp-content/uploads/2020/12/Calico-Advertise-Service-IP-Diagram-v2.svg
+https://dev-project-calico-2020.pantheonsite.io/wp-content/uploads/2020/04/kube-proxy-routing-1024x646.png
+https://dev-project-calico-2020.pantheonsite.io/wp-content/uploads/2020/04/calico-ebpf-routing-1024x646.png
+https://dev-project-calico-2020.pantheonsite.io/wp-content/uploads/2020/04/calico-ebpf-performance-1024x646.png
+aligncenter size-large is-resized
+https://www.projectcalico.org/wp-content/uploads/2020/06/grafana-dashboard-1024x640.png
+aligncenter size-large is-resized
+aligncenter
+https://docs.projectcalico.org/images/example-k8s-calico-policy-mix.svg
